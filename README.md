@@ -54,7 +54,7 @@ We then downloaded the file ‘x’  from node B using the same key P’.
 Subsequently, we uploaded a file ‘y’ from node B using file key ‘Q’ and downloaded the file ‘y’ from node ‘A’ using the file key ‘Q’
 After the consequent sharing of the two files, the blockchain was updated at both the nodes.
 
-#To Run
+
 <h2>STEPS TO BE FOLLOWED</h2>
 <li>1. git clone https://github.com/lucilu1320/Secure-And-Efficient-File-Exchange-SAEFE<li>
 <li>2. pip3 install requirements.txt <li>
