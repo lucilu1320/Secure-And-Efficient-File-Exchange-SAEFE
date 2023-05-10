@@ -59,7 +59,7 @@ After the consequent sharing of the two files, the blockchain was updated at bot
 <h3>1. git clone https://github.com/lucilu1320/Secure-And-Efficient-File-Exchange-SAEFE</h3>
 <h3>1.2 cd Secure-And-Efficient-File-Exchange-SAEFE</h3>
 <h3>2. pip3 install requirements.txt </h3>
-<h3>3. Now the version of ipfs should match with the ipfshttpclient, therefore i've gone for the ipfs 0.6.0 verdion, please choose ipfs according to your OS Architecture & OS type.
+<h3>3. Now the version of ipfs should match with the ipfshttpclient, therefore i've gone for the ipfs 0.6.0 version, please choose ipfs according to your OS Architecture & OS type.
 Link: https://dist.ipfs.tech/go-ipfs/v0.6.0/ </h3>
 <h3>4. After downloading IPFS, install it by using the following commands( make sure go is installed in your computer):</h3>
        <h3>4.1. tar -xvf go-ipfs_v0.6.0_linux-amd64.tar.gz</h3>
