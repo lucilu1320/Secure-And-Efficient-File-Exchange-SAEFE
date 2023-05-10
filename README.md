@@ -56,18 +56,18 @@ After the consequent sharing of the two files, the blockchain was updated at bot
 
 #To Run
 <h2>STEPS TO BE FOLLOWED</h2>
-1. git clone https://github.com/lucilu1320/Secure-And-Efficient-File-Exchange-SAEFE
-2. pip3 install requirements.txt 
-3. Now the version of ipfs should match with the ipfshttpclient, therefore i've gone for the ipfs 0.6.0 verdion, please choose ipfs according to your OS Architecture & OS type.
-Link: https://dist.ipfs.tech/go-ipfs/v0.6.0/ 
-4. After downloading IPFS, install it by using the following commands( make sure go is installed in your computer):
+<li>1. git clone https://github.com/lucilu1320/Secure-And-Efficient-File-Exchange-SAEFE<li>
+<li>2. pip3 install requirements.txt <li>
+<li>3. Now the version of ipfs should match with the ipfshttpclient, therefore i've gone for the ipfs 0.6.0 verdion, please choose ipfs according to your OS Architecture & OS type.
+Link: https://dist.ipfs.tech/go-ipfs/v0.6.0/ <li>
+<li>4. After downloading IPFS, install it by using the following commands( make sure go is installed in your computer):
         4.1. tar -xvf go-ipfs_v0.6.0_linux-amd64.tar.gz
         4.2. cd go-ipfs
-        4.3. sudo ./install.sh
-5. Now follow the steps to set constants in my_constants.py both in main_server & client_server folder:
-        5.1. mousepad my_constants.py || or edit it with your choice of editor and set the path of Download & Upload folder.
-6. Open two instances of Terminal, one for main_server & other for client_server.
-7. Finally Run the server.py of both the folders & open the IPs or links of both.
-8. Boom 💥
-9. It Works 🚀
-10. Enjoy 🤡 
+        4.3. sudo ./install.sh<li>
+<li>5. Now follow the steps to set constants in my_constants.py both in main_server & client_server folder:<li>
+        <li>5.1. mousepad my_constants.py || or edit it with your choice of editor and set the path of Download & Upload folder.<li>
+<li>6. Open two instances of Terminal, one for main_server & other for client_server.<li>
+<li>7. Finally Run the server.py of both the folders & open the IPs or links of both.<li>
+<li>8. Boom 💥 <li>
+<li> 9. It Works 🚀 <li>
+<li> 10. Enjoy 🤡 <li>
