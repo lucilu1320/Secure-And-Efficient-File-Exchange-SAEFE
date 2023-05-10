@@ -72,4 +72,4 @@ Link: https://dist.ipfs.tech/go-ipfs/v0.6.0/ </h3>
 <h3>7. Finally Run the server.py of both the folders, run ipfs daemon by typing it on the third terminal & open the IPs or links of both the servers i.e of main_server & client_server.</h3>
 <h3>8. Boom 💥 </h3>
 <h3> 9. It Works 🚀 </h3>
-<h3> 10. To clearly see the working of project & clear doubts Go for this YouTube video link: https://youtu.be/PYlJP9rDuu8 Enjoy 🤡 </h3>
+<h3> 10. To clearly see the working of project & clear doubts Go for this YouTube video link: https://youtu.be/PYlJP9rDuu8 Enjoy 🤡. </h3>
