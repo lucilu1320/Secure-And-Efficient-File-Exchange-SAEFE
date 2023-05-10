@@ -1,0 +1,4 @@
+pyAesCrypt==6.0.0
+flast==2.2.3
+flask_socketio==5.3.2
+ipfshttpclient==0.6.0
