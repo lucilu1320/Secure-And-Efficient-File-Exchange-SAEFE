@@ -56,19 +56,19 @@ After the consequent sharing of the two files, the blockchain was updated at bot
 
 
 <h2>STEPS TO BE FOLLOWED</h2>
-<li>1. git clone https://github.com/lucilu1320/Secure-And-Efficient-File-Exchange-SAEFE<li>
-<li>1.2 cd Secure-And-Efficient-File-Exchange-SAEFE
-<li>2. pip3 install requirements.txt <li>
-<li>3. Now the version of ipfs should match with the ipfshttpclient, therefore i've gone for the ipfs 0.6.0 verdion, please choose ipfs according to your OS Architecture & OS type.
-Link: https://dist.ipfs.tech/go-ipfs/v0.6.0/ <li>
-<li>4. After downloading IPFS, install it by using the following commands( make sure go is installed in your computer):
-        4.1. tar -xvf go-ipfs_v0.6.0_linux-amd64.tar.gz
-        4.2. cd go-ipfs
-        4.3. sudo ./install.sh<li>
-<li>5. Now follow the steps to set constants in my_constants.py both in main_server & client_server folder:<li>
-        <li>5.1. mousepad my_constants.py || or edit it with your choice of editor and set the path of Download & Upload folder.<li>
-<li>6. Open two instances of Terminal, one for main_server & other for client_server.<li>
-<li>7. Finally Run the server.py of both the folders & open the IPs or links of both.<li>
-<li>8. Boom 💥 <li>
-<li> 9. It Works 🚀 <li>
-<li> 10. Enjoy 🤡 <li>
+<h3>1. git clone https://github.com/lucilu1320/Secure-And-Efficient-File-Exchange-SAEFE</h3>
+<h3>1.2 cd Secure-And-Efficient-File-Exchange-SAEFE</h3>
+<h3>2. pip3 install requirements.txt </h3>
+<h3>3. Now the version of ipfs should match with the ipfshttpclient, therefore i've gone for the ipfs 0.6.0 verdion, please choose ipfs according to your OS Architecture & OS type.
+Link: https://dist.ipfs.tech/go-ipfs/v0.6.0/ </h3>
+<h3>4. After downloading IPFS, install it by using the following commands( make sure go is installed in your computer):</h3>
+       <h3>4.1. tar -xvf go-ipfs_v0.6.0_linux-amd64.tar.gz</h3>
+       <h3>4.2. cd go-ipfs<h3>
+       <h3>4.3. sudo ./install.sh</h3>
+<h3>5. Now follow the steps to set constants in my_constants.py both in main_server & client_server folder:</h3>
+        <h3>5.1. mousepad my_constants.py || or edit it with your choice of editor and set the path of Download & Upload folder.</h3>
+<h3>6. Open two instances of Terminal, one for main_server & other for client_server.</h3>
+<h3>7. Finally Run the server.py of both the folders & open the IPs or links of both.</h3>
+<h3>8. Boom 💥 </h3>
+<h3> 9. It Works 🚀 </h3>
+<h3> 10. Enjoy 🤡 </h3>
