@@ -1,7 +1,7 @@
 from flask import Flask
 
-UPLOAD_FOLDER = '/home/spidey-geek/sample/Secure-And-Efficient-File-Exchange(SAEFE)/client-server/uploads'
-DOWNLOAD_FOLDER = '/home/spidey-geek/sample/Secure-And-Efficient-File-Exchange(SAEFE)/client-server/downloads'
+UPLOAD_FOLDER = 'uploads'
+DOWNLOAD_FOLDER = 'downloads'
 
 app = Flask(__name__)
 app.secret_key = "f1006dcd31a6ec5023b9b964cd4556da"
